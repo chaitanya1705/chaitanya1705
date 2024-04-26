@@ -44,7 +44,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://langchain.com" target="_blank" rel="noreferrer">
-        <img src="langchain_icon_url" alt="LangChain" width="40" height="40"/>
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-PlFCd_VBcALKReO3ZaOEg.png" alt="LangChain" width="40" height="40"/>
     </a>
 </p>
 
