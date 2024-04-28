@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Chaitanya N </h1>
 <h3 align="center"> Data science & AI/ML enthusiast </h3>
 
-- Undergraduate student pursuing Bachelor of Technology (B.Tech) degree in Computer Science and Engineering at PES University, Bangalore, with a fervent interest in Data science, machine learning, and emerging technologies.Eager to apply theoretical knowledge and learn practical skills.
+- Undergraduate student pursuing Bachelor of Technology (B.Tech) degree in Computer Science and Engineering , with a fervent interest in Data science, machine learning, and emerging technologies.Eager to apply theoretical knowledge and learn practical skills.
 
 - 📫 How to reach me: **chaitanya.n1705@gmail.com**
 
